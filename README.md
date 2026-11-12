@@ -1,1 +1,11 @@
-IT Ticket Analysis ˆ August 2026 Analyzed 97,498 IT support ticket records to identify trends in ticket volume, issue categories, resolution time, and customer satisfaction. ˆ ˆ ˆ ˆ Cleaned and standardized data by correcting inconsistent values and preparing datasets for analysis. Used PivotTables, XLOOKUP, DATEDIF, and Excel formulas to analyze ticket distribution, agent performance, and resolution metrics. Created charts and visualizations to track ticket trends, compare issue categories, and evaluate support efficiency. Derived actionable insights, including high-volume ticket categories and resolution bottlenecks, and recommended improvements to IT support operations.
+IPL Data Analysis & RCB Team Strategy Using SQL
+
+Analyzed IPL historical data to evaluate team performance, player statistics, and match trends across multiple seasons.
+
+Used SQL queries to analyze batting performance, bowling effectiveness, player consistency, and team performance across different venues.
+
+Applied joins, aggregate functions, subqueries, CTEs, CASE statements, and window functions to extract meaningful insights from multiple datasets.
+
+Evaluated toss decisions, match outcomes, top-performing players, and season-wise trends to identify factors influencing team performance.
+
+Derived data-driven insights and recommendations to improve RCB's team combination, bowling strength, and overall match strategy.
